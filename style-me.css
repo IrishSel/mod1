@@ -1,0 +1,51 @@
+.passe-partout{       
+    border: 2px solid rgba(81, 68, 194, 0.425);
+    padding: 20px;
+    background: linear-gradient(0deg, rgba(225, 95, 197, 0.458) 0% ,rgba(81, 68, 194, 0.425)  100%);
+   }
+p {
+font-size: 20px;
+}
+
+
+
+.fig {
+text-align: left;
+}
+.info {
+    display: flex;
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 15px rgb(206, 90, 238);
+}
+
+main{
+    
+    margin-left: 15pt;
+    margin-right: 15pt;
+    padding: 15px;
+}
+footer{
+    text-align: center;
+}
+h1{
+    margin: 10px;
+    color: rgb(115, 20, 155);
+}
+
+h3{
+    margin: 20px;
+}
+
+nav{
+    font-size: large;
+    margin-bottom: 10px;
+   }
+
+   html{
+    background: linear-gradient(0deg, rgba(225, 95, 197, 0.458) 0% ,rgba(81, 68, 194, 0.425)  100%);
+   }
+
+   footer{
+    margin: 15px;
+    padding: 30px;
+   }

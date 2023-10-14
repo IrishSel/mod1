@@ -1,0 +1,41 @@
+main{
+    margin-left: 15pt;
+    text-align: left;
+}
+section{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: large;
+    max-width: 300px;
+    width: auto;
+}
+
+.flex_card{
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+
+nav{
+    font-size: large;
+    margin-bottom: 10px;
+    text-align: left;
+   }
+
+   html{
+    background: linear-gradient(0deg, rgba(225, 95, 197, 0.458) 0% ,rgba(81, 68, 194, 0.425)  100%);
+   }
+
+footer{
+    text-align: left;
+   }
+
+.fig{
+    font-size: larger;
+    width: auto;
+}
+p{
+    font-size: larger;
+}
